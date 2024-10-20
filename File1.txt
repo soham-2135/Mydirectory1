@@ -1,1 +1,2 @@
 Initial ContentNewline in File1 on Branch1
+updated content
